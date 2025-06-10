@@ -1,4 +1,11 @@
 <div align="center">
+<h1>代码备份，未被不明人员修改的版本</h1> 
+Code backup – version not modified by unauthorized persons
+
+---
+</div>
+
+<div align="center">
   <a href="https://alist.nn.ci"><img width="100px" alt="logo" src="https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg"/></a>
   <p><em>🗂️A file list program that supports multiple storages, powered by Gin and Solidjs.</em></p>
 <div>
@@ -124,7 +131,7 @@ https://alist.nn.ci/guide/sponsor.html
 
 Thanks goes to these wonderful people:
 
-[![Contributors](http://contrib.nn.ci/api?repo=alist-org/alist&repo=alist-org/alist-web&repo=alist-org/docs)](https://github.com/alist-org/alist/graphs/contributors)
+![Contributors](https://github.com/user-attachments/assets/ea048639-2d5a-4480-9631-5e2a1189dcc6)
 
 ## License
 
